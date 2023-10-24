@@ -43,3 +43,9 @@ standard CISA blah blah
 
 # Placeholders that will disappear
 This section will disappear once covered in "real" text about this point.
+
+## Reference Links
+- SEC
+  - Press Release: https://www.sec.gov/news/press-release/2023-139
+  - Rule: https://www.sec.gov/rules/final/2023/33-11216.pdf
+  - Fact Sheet: https://www.sec.gov/files/33-11216-fact-sheet.pdf
