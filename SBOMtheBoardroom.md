@@ -1,3 +1,8 @@
+Disclaimer: This is **NOT** the official
+CISA Onramps and Adoption copy.
+This is just one member using Github
+to hopefully make process easier.
+
 # Why Corporate Boards should embrace software supply chain transparency
 some intro text
 ## Audience
