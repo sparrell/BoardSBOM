@@ -8,8 +8,11 @@ Corporate Boards are responsible for oversight, strategy, and risk. The followin
 A board member should be able to read through these FAQs and then be able to ask appropriate questions wrt their corporate SBOM strategy.
 
 Q: How will our company’s SBOM strategy increase or decrease our revenue?
+
 A1: produce and supply USG
+
 A2: consume and supply USG
+
 A3:
 
 Q: How will our company’s SBOM strategy increase or decrease our expenses?
