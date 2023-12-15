@@ -13,7 +13,7 @@ A1: produce and supply USG
 
 A2: consume and supply USG
 
-A3:
+A3: profit vs nonprofit
 
 Q: How will our company’s SBOM strategy increase or decrease our expenses?
 
